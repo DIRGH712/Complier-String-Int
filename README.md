@@ -12,7 +12,7 @@
 * Variables can be assigned value using “=” symbol.
 * Variable names should start with “character in small case” and cannot contain any integers. The maximum size of name can be 3.</br>
 
-[Full Documentation]().
+  [Full Documentation](https://github.com/DIRGH712/Complier-String-Int/blob/main/Compiler/Project%20Report.pdf).
 
 
 
